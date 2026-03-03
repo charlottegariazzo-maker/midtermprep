@@ -23,3 +23,5 @@ print(e)
 print(e[1::2])
 
 print(e + e[::-1])
+
+edit
